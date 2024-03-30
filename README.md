@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on moble development.
+- 🔭 I’m currently working on python development.
 - 🌱 I’m currently learning about Flutter.
 - 👯 I’m looking to collaborate on lots of customers.
 - 🤔 I’m looking for help with Flutter.
