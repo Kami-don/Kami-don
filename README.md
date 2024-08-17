@@ -31,7 +31,7 @@ I am a software engineer experienced in designing and building distributed, scal
       <td>This URL shortener service, built with Go and Hexagonal Architecture, leverages a serverless approach for efficient scalability and performance.</td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/Event-Driven-Architecture-with-Golang"><b>⚽️ Event Driven Architecture with Golang</b></a></td>
+      <td><a href="https://github.com/Kami-don/Event-Driven-Architecture-with-Golang"><b>⚽️ Event Driven Architecture with Golang</b></a></td>
       <td>The projects aims to integrate incoming GitHub webhooks with Grafana and Slack, essentially adding annotations and sending messages when a new commit is pushed. </td>
     </tr>
     <tr>
