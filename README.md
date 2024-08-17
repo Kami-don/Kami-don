@@ -1,7 +1,3 @@
-
-
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg"><img src="https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg" alt="spectra-program-management-side-1024x576" style="max-width: 100%;"></a></p>
 <hr>
 <br/> 
 
