@@ -1,4 +1,4 @@
-<h2> Hello there, I'm Daniel Tetsuya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2> Hello there, I'm Daniel. A seasoned backend engineer. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
