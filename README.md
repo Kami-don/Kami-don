@@ -27,7 +27,7 @@ I am a software engineer experienced in designing and building distributed, scal
 <table>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/golang-url-shortener"><b>🚀 Golang URL Shortener</b></a></td>
+      <td><a href="https://github.com/Kami-don/golang-url-shortener"><b>🚀 Golang URL Shortener</b></a></td>
       <td>This URL shortener service, built with Go and Hexagonal Architecture, leverages a serverless approach for efficient scalability and performance.</td>
     </tr>
 	  <tr>
@@ -35,27 +35,27 @@ I am a software engineer experienced in designing and building distributed, scal
       <td>The projects aims to integrate incoming GitHub webhooks with Grafana and Slack, essentially adding annotations and sending messages when a new commit is pushed. </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/microservices-with-go"><b>🤖 Microservices with Go</b></a></td>
+      <td><a href="https://github.com/Kami-don/microservices-with-go"><b>🤖 Microservices with Go</b></a></td>
       <td>The project utilizes Go, Kubernetes, RabbitMQ, MongoDB, Postgres, and a microservices architecture.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/NBA-Simulator-with-Golang"><b>🏀 NBA Simulator with Golang</b></a></td>
+      <td><a href="https://github.com/Kami-don/NBA-Simulator-with-Golang"><b>🏀 NBA Simulator with Golang</b></a></td>
       <td>The NBA Simulator is a Go-based application designed to simulate various aspects of NBA games.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/gocircuit"><b>⚡️ Go Circuit Breaker</b></a></td>
+      <td><a href="https://github.com/Kami-don/gocircuit"><b>⚡️ Go Circuit Breaker</b></a></td>
       <td>Go Circuit Breaker is a robust and flexible Go package that provides a Circuit Breaker implementation for managing unreliable or slow dependencies in your Go applications.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/social-distance-detection"><b>🚑 Social Distance Detection</b></a></td>
+      <td><a href="https://github.com/Kami-don/social-distance-detection"><b>🚑 Social Distance Detection</b></a></td>
       <td>The project that measures the social distance between people in the video through YOLOv3, OpenCV and algorithms, and shows this visually and numerically.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/Checkout-System"><b>🧺 Shopping Checkout Application</b></a></td>
+      <td><a href="https://github.com/Kami-don/Checkout-System"><b>🧺 Shopping Checkout Application</b></a></td>
       <td>The project is a mini e-commerce checkout developed with Go, incorporating features such as cart management, various product types, and promotions.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/redis-sentinel-pubsub-demo"><b>🚗 Redis Sentinel Pub/Sub Demo</b></a></td>
+      <td><a href="https://github.com/Kami-don/redis-sentinel-pubsub-demo"><b>🚗 Redis Sentinel Pub/Sub Demo</b></a></td>
       <td>The project demonstrates the implementation and functionality of Redis, Redis Sentinel, and Pub/Sub systems.</td>
     </tr>
   </tbody>
